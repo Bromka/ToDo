@@ -1,0 +1,25 @@
+{
+  "name": "todowithoutframeworks",
+  "version": "1.0.0",
+  "description": "ToDo test project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bromka/ToDo.git"
+  },
+  "keywords": [
+    "ToDo",
+    "TypeScript",
+    "SCSS",
+    "Bromka"
+  ],
+  "author": "Iliya <efimov.iliya@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bromka/ToDo/issues"
+  },
+  "homepage": "https://github.com/Bromka/ToDo#readme"
+}
